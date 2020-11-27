@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/modify_contact"
+        android:title="@string/chat_activity_modify"
+        app:showAsAction="never"/>
+    <item android:id="@+id/suppr_contact"
+        android:title="@string/chat_activity_delete"
+        app:showAsAction="never"/>
+    <item android:id="@+id/call_contact"
+        android:icon="@drawable/ic_baseline_call_24"
+        app:showAsAction="always"
+        android:title=""/>
+</menu>

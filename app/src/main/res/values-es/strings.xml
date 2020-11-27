@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ft_hangout</string>
+    <string name="login_activity_title">Registro / Inicio de sesión</string>
+    <string name="login_activity_phone">"Su número de teléfono "</string>
+    <string name="login_activity_code">Tu codigo</string>
+    <string name="login_activity_send_p1">Enviar verificación</string>
+    <string name="login_activity_send_p2">Comprobar el código</string>
+    <string name="main_activity_menu_deco">Desconectarse</string>
+    <string name="main_activity_menu_contact">Buscar contactos</string>
+    <string name="main_activity_menu_color">Cambiar el color</string>
+    <string name="main_activity_menu_date">Sin cita</string>
+    <string name="userinfos_activity_more">Más información</string>
+    <string name="userinfos_activity_pseudo">Apodo de contacto</string>
+    <string name="userinfos_activity_alias">Alias ​​de contacto</string>
+    <string name="userinfos_activity_relation">Relación con el contacto</string>
+    <string name="userinfos_activity_desc">Descripción de contacto</string>
+    <string name="update_userinfos_activity_image">Elige una imagen</string>
+    <string name="update_userinfos_activity_title">Editar un contacto</string>
+    <string name="update_userinfos_activity_pseudo">Seudo</string>
+    <string name="update_userinfos_activity_alias">También conocido como</string>
+    <string name="update_userinfos_activity_image_d">Imagen</string>
+    <string name="update_userinfos_activity_desc">Descripción</string>
+    <string name="update_userinfos_activity_relation">Relación</string>
+    <string name="update_userinfos_activity_send">Poner al día</string>
+    <string name="find_user_activity_search">Investigación en curso ...</string>
+    <string name="find_user_activity_no_user">Usuario no encontrado</string>
+    <string name="find_user_activity_back">Anular</string>
+    <string name="chat_activity_image">Elija imagen</string>
+    <string name="chat_activity_modify">Modificar perfil</string>
+    <string name="chat_activity_delete">Borrar perfil</string>
+    <string name="chat_activity_message">Mensaje ...</string>
+    <string name="color_activity_v">Verde</string>
+    <string name="color_activity_r">Rojo</string>
+    <string name="color_activity_b">Azul</string>
+    <string name="color_activity_change">Cambiar color del encabezado</string>
+</resources>

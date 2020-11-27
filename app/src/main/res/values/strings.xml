@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ft_hangout</string>
+
+    <string name="login_activity_title">Inscription / connexion</string>
+    <string name="login_activity_phone">Votre numero de telephone</string>
+    <string name="login_activity_code">Votre code</string>
+    <string name="login_activity_send_p1">Envoyer la verification</string>
+    <string name="login_activity_send_p2">Verifier le code</string>
+
+    <string name="main_activity_menu_deco">Se deconnecter</string>
+    <string name="main_activity_menu_contact">Rechercher des contacts</string>
+    <string name="main_activity_menu_color">Changer la couleur</string>
+    <string name="main_activity_menu_date">Pas de date</string>
+
+    <string name="userinfos_activity_more">Plus d\'informations</string>
+    <string name="userinfos_activity_pseudo">Pseudo du contact</string>
+    <string name="userinfos_activity_alias">Alias du contact</string>
+    <string name="userinfos_activity_relation">Relation avec le contact</string>
+    <string name="userinfos_activity_desc">Description du contact</string>
+
+    <string name="update_userinfos_activity_image">Choisir une image</string>
+    <string name="update_userinfos_activity_title">Modifier un contact</string>
+    <string name="update_userinfos_activity_pseudo">Pseudo</string>
+    <string name="update_userinfos_activity_alias">Alias</string>
+    <string name="update_userinfos_activity_image_d">Image</string>
+    <string name="update_userinfos_activity_desc">Description</string>
+    <string name="update_userinfos_activity_relation">Relation</string>
+    <string name="update_userinfos_activity_send">Mettre a jour</string>
+
+    <string name="find_user_activity_search">Recherche en cours …</string>
+    <string name="find_user_activity_no_user">Pas d\'utilisateur trouve</string>
+    <string name="find_user_activity_back">Annuler</string>
+
+    <string name="chat_activity_image">Choisir une/des image(s)</string>
+    <string name="chat_activity_modify">Modifier le profil</string>
+    <string name="chat_activity_delete">Supprimer le profil</string>
+    <string name="chat_activity_message">Message …</string>
+
+    <string name="color_activity_change">Changer la couleur du header</string>
+    <string name="color_activity_v">Vert</string>
+    <string name="color_activity_r">Rouge</string>
+    <string name="color_activity_b">Bleu</string>
+
+    <string-array name="language_option">
+        <item>Francais</item>
+        <item>English</item>
+        <item>Spanish</item>
+    </string-array>
+</resources>

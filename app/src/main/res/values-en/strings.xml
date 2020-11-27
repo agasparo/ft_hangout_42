@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ft_hangout</string>
+    <string name="login_activity_phone">Your phone number</string>
+    <string name="login_activity_title">Registration / Login</string>
+    <string name="login_activity_code">Your code</string>
+    <string name="login_activity_send_p1">Send verification</string>
+    <string name="login_activity_send_p2">Check the code</string>
+    <string name="main_activity_menu_deco">Sign out</string>
+    <string name="main_activity_menu_contact">Find contacts</string>
+    <string name="main_activity_menu_color">Change color</string>
+    <string name="main_activity_menu_date">No date</string>
+    <string name="userinfos_activity_pseudo">Contact nickname</string>
+    <string name="userinfos_activity_more">More information</string>
+    <string name="userinfos_activity_alias">Contact alias</string>
+    <string name="userinfos_activity_relation">Relationship with contact</string>
+    <string name="userinfos_activity_desc">Contact Description</string>
+    <string name="update_userinfos_activity_image">Choose an image</string>
+    <string name="update_userinfos_activity_title">Edit a contact</string>
+    <string name="update_userinfos_activity_pseudo">Pseudo</string>
+    <string name="update_userinfos_activity_alias">A.k.a</string>
+    <string name="update_userinfos_activity_image_d">Picture</string>
+    <string name="update_userinfos_activity_desc">Description</string>
+    <string name="update_userinfos_activity_relation">Relationship</string>
+    <string name="update_userinfos_activity_send">Update</string>
+    <string name="find_user_activity_search">Currently researching ...</string>
+    <string name="find_user_activity_no_user">No user found</string>
+    <string name="find_user_activity_back">Cancel</string>
+    <string name="chat_activity_image">Choose image</string>
+    <string name="chat_activity_modify">Modify profile</string>
+    <string name="chat_activity_delete">Delete profile</string>
+    <string name="chat_activity_message">Message ...</string>
+    <string name="color_activity_change">Change header color</string>
+    <string name="color_activity_v">Green</string>
+    <string name="color_activity_r">Red</string>
+    <string name="color_activity_b">Blue</string>
+</resources>
